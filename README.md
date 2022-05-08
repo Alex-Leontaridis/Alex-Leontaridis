@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Alex-Leontaridis.
-- 👀 I’m interested in Star Trek, Spider-Man, Computers and Vidoe Games.
+- 👀 I’m interested in Star Trek, Spider-Man, Computers and Vide0 Games.
 - 🌱 I’m currently learning Pyhton, Swift.
 
 <!---
